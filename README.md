@@ -17,3 +17,8 @@ Team Repo
 
 To Do List:
 
+  https://github.com/UEFight-Team/UEFight/projects/1
+  
+ Accepting any and all feedback, help, source code, publicity, and improvements.
+ 
+ Contact rawil286@gmail.com 
